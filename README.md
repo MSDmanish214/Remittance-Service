@@ -66,7 +66,8 @@ The contract acts as a simple escrow system where funds are recorded and release
 
 ---
 
-## 🔗 Deployed Smart Contract Link
+## 🔗 Deployed Smart Contr<img width="894" height="757" alt="Screenshot 2026-03-19 at 2 47 19 PM" src="https://github.com/user-attachments/assets/a01ba41e-ccb6-4b32-9b9b-fba6db7aefa6" />
+act Link
 
 > ⚠️ Replace this with your actual deployed contract link:
 

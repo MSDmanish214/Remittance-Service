@@ -56,6 +56,8 @@ The contract acts as a simple escrow system where funds are recorded and release
    - Receiver calls `claim_remittance`
    - Funds are released and removed from storage
 
+Deployed Smart Contract Link
+CBEWAMNP4NCXAPWSLFJWPDVA4OWJJ5PEYVWAZSNIB3ZTCXFT6YFXMQXT
 ---
 
 ## 🛠️ Tech Stack

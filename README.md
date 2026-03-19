@@ -64,9 +64,10 @@ The contract acts as a simple escrow system where funds are recorded and release
 - **Smart Contracts:** Soroban
 - **Language:** Rust
 
----
+---<img width="1689" height="1031" alt="Screenshot 2026-03-19 at 2 50 42 PM" src="https://github.com/user-attachments/assets/877a7630-a22e-40e3-a7f9-5106f8131a35" />
 
-## 🔗 Deployed Smart Contr<img width="894" height="757" alt="Screenshot 2026-03-19 at 2 47 19 PM" src="https://github.com/user-attachments/assets/a01ba41e-ccb6-4b32-9b9b-fba6db7aefa6" />
+
+## 🔗 
 act Link
 
 > ⚠️ Replace this with your actual deployed contract link:
